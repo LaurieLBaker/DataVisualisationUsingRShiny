@@ -1,6 +1,6 @@
 <h1> ShinyCourse </h1>
   
-<h4> This repository stores material and code for the Shiny Workshop to be held in Bagamoyo and Arusha, July-August 2019.<h4><br>
+<h4> This repository stores material and code for the Shiny Workshop held in Bagamoyo and Arusha, July-August 2019.<h4><br>
 
 <hr>
 
